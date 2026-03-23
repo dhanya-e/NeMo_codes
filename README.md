@@ -31,9 +31,9 @@ The script executes the inference pipeline using a pretrained NeMo model.
 
 Modify the parameters inside the script to configure:
 
-model path
-input data
-output location
+- model path
+- input data
+- output location
 
 # Running Fine-Tuning
 
@@ -46,8 +46,8 @@ This script launches the fine-tuning workflow using the fine-tuning training con
 
 Modify:
 
-dataset path
-training parameters
-learning rate
-number of epochs
-checkpoint paths
+- dataset path
+- training parameters
+- learning rate
+- number of epochs
+- checkpoint paths
