@@ -4,18 +4,6 @@ This repository contains a collection of scripts for running inference, fine-tun
 
 ---
 
-# Overview
-
-The repository includes scripts that help run **NVIDIA NeMo** models for various tasks.
-
-Main capabilities:
-
-- Run inference using pretrained NeMo models
-- Fine-tune models on custom datasets
-- Configure experiments using configuration files
-
----
-
 # Requirements
 
 Before running the scripts, ensure the following are installed:
